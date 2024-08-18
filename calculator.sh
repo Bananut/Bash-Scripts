@@ -15,7 +15,7 @@ EOF
 pause_time=0.5
 
 echo "$title"
-echo "version $version, made by bruhbananut"
+echo "version $version, made by bananut"
 sleep $pause_time
 echo "Input first number"
 read number_1
