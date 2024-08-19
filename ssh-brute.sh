@@ -14,7 +14,7 @@ EOF
 )
 
 #Help string
-help="example usage: ./ssh_password_cracker.sh user /path/to/wordlist.txt target_adress"
+help="example usage: ./ssh_password_cracker.sh <user> </path/to/wordlist.txt> <target_adress>"
 
 # Function to handle the interrupt signal (Ctrl+C)
 cleanup() {
