@@ -30,5 +30,5 @@ Then use this to execute the script
   ```
 
 ## License<br/>
-Feel free to use these scripts any way you want them to
+Use anything any way you like for free
 # 👍
