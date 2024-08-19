@@ -6,7 +6,8 @@
       You can find a few scripts i made by myself to study bash<br/>
       They aren't perfect, but that isn't what this is about<br/>
       I'm putting this on github for a few reasons, but mainly<br/>
-      to save it somewhere else than my computer and also to learn how to make a github page <br/>
+      to save it somewhere else than my computer<br/>
+      and also to learn how to make a github page <br/>
     </td>
   </tr>
 </table>
