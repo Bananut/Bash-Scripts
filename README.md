@@ -15,6 +15,20 @@
 Networkchuck - to learn the basics with a guided video (very well done)<br/>
 ChatGPT - to help me polish my scripts and explain ways I can implement my ideas<br/>
 
+## How do I use this?
+Download command
+  ```bash
+  git clone https://github.com/Bananut/Bash-Scripts
+  ```
+If you want to use any script do this to make it executable
+  ```bash
+  sudo chmod +x <script.sh>
+  ```
+Then use this to execute the script
+  ```bash
+  ./<script.sh>
+  ```
+
 ## License<br/>
 Feel free to use these scripts any way you want them to
 # 👍
