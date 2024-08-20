@@ -1,7 +1,7 @@
-# A Password generator script
+# A Password wordlist generator script
 
 ## Overview
-A script for generating random passwords
+A script for generating random password wordlists
 
 ## How do I use this?
 Help Command:
