@@ -32,5 +32,5 @@ I don't recommend going over speed 40, because it won't register loging in with 
 
 ## Example
 ```bash
-./ssh-brute.sh administrator /home/kali/rockyou.txt 192.168.1.100
+./ssh-brute.sh administrator /home/kali/rockyou.txt 192.168.1.100 35
 ```
